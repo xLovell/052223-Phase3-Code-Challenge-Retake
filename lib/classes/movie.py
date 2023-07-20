@@ -8,7 +8,6 @@ class Movie:
         pass
     
     def reviewers(self):
-        from classes.review import Review
         pass
     
     def average_rating(self):
