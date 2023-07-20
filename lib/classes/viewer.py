@@ -8,7 +8,6 @@ class Viewer:
         pass
     
     def reviewed_movies(self):
-        from classes.review import Review
         pass
 
     def has_reviewed_movie(self, movie):
