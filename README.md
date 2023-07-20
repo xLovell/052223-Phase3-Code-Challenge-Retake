@@ -110,7 +110,6 @@ build out any helper methods if needed.
   - Returns the movie that is being reviewed.
   - Movies must be `Movie` instances.
   - `raise Exception` if validation fails.
-- _Stretch goal: only the most recent review should persist for each viewer._
 
 #### Viewer
 
