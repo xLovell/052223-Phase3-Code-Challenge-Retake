@@ -91,8 +91,6 @@ build out any helper methods if needed.
 - `Review __init__(self, viewer, movie, rating)`
   - `Review` is initialized with a `Viewer` instance, a `Movie` instance, and a
     rating (number)
-  - Instantiating a review should add it to its `viewer`'s `review`s
-  - Instantiating a review should add it to its `movie`'s `reviews`
 - `Review property rating()`
   - Returns the rating for the `Review` instance
   - Ratings must be integers between 1 and 5, inclusive
